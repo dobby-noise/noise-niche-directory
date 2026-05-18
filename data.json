@@ -1,0 +1,626 @@
+{
+  "niches": [
+    {
+      "name": "\ud83c\udfcb\ufe0f Health & Wellness",
+      "brands": [
+        {
+          "org_id": 8170,
+          "name": "Gymgineer",
+          "image": "https://auth.gemstreak.com/storage/v1/object/public/account-covers/fab6a9da-92f4-4b58-83d2-df127d93a1ea.png?v=dWtAkwP6XNSY9jLb-cover",
+          "cpm": 3.0,
+          "website": ""
+        },
+        {
+          "org_id": 6692,
+          "name": "PCOS Pal",
+          "image": "https://auth.gemstreak.com/storage/v1/object/public/account-covers/943cfe16-39f3-4847-b395-7ca6c53db1f5.png?v=0qxw2ET95vo2wz6R-cover",
+          "cpm": 1.33,
+          "website": ""
+        },
+        {
+          "org_id": 5752,
+          "name": "Gutrating.com",
+          "image": "https://auth.gemstreak.com/storage/v1/object/public/account-covers/7a33da6a-458f-4c4c-82f5-d0d31783760d.png?v=JhudL2YNFybCJtRC-cover",
+          "cpm": 1.0,
+          "website": ""
+        },
+        {
+          "org_id": 4831,
+          "name": "INNERA LABS",
+          "image": "https://auth.gemstreak.com/storage/v1/object/public/account-covers/38f8ba8c-8a90-48d4-89f9-036016b78c09.jpeg?v=SY_rbxu1uUkMbay4-cover",
+          "cpm": 3.0,
+          "website": ""
+        },
+        {
+          "org_id": 5698,
+          "name": "Eatlock",
+          "image": "https://auth.gemstreak.com/storage/v1/object/public/account-covers/c8d1e43b-d0d1-4d66-afa4-0fc39d2f95f6.png?v=VBHEYdwe0qfWk_YB-cover",
+          "cpm": 0.15,
+          "website": ""
+        },
+        {
+          "org_id": 8787,
+          "name": "Xoul",
+          "image": "https://auth.gemstreak.com/storage/v1/object/public/account-covers/ebf1a4ed-91ff-404f-9e44-02eb5d22c2a8.jpeg?v=9a0FbCWAoSwSjfoQ-cover",
+          "cpm": 2.0,
+          "website": ""
+        },
+        {
+          "org_id": 4370,
+          "name": "Medfinder",
+          "image": "https://auth.gemstreak.com/storage/v1/object/public/account-covers/7567c2ec-ffff-4eb7-838d-90d78030369a.png?v=CXG7Z0To09XZRp7--cover",
+          "cpm": 3.0,
+          "website": ""
+        },
+        {
+          "org_id": 8908,
+          "name": "NeatNook",
+          "image": "https://auth.gemstreak.com/storage/v1/object/public/account-covers/274f999e-7b24-4adf-ac03-ed6995270e89.png?v=VHxvD1B2Ux2pu0ym-cover",
+          "cpm": 1.5,
+          "website": ""
+        }
+      ]
+    },
+    {
+      "name": "\ud83d\udcb0 Finance & Money",
+      "brands": [
+        {
+          "org_id": 4171,
+          "name": "Bloom: Learn to Invest",
+          "image": "https://auth.gemstreak.com/storage/v1/object/public/account-covers/53fba9ca-8703-4766-939f-88e679710aa1.jpg?v=T-YfEF4VyFy4PMDI-cover",
+          "cpm": 2.0,
+          "website": ""
+        },
+        {
+          "org_id": 5802,
+          "name": "Claimora",
+          "image": "https://auth.gemstreak.com/storage/v1/object/public/account-covers/c487dea9-2b26-4b74-9eb7-ade9cb95d6a3.png?v=HVWK3wjE15_wuXZG-cover",
+          "cpm": 0.75,
+          "website": ""
+        },
+        {
+          "org_id": 6845,
+          "name": "Toya",
+          "image": "https://auth.gemstreak.com/storage/v1/object/public/account-covers/69f04684-f883-4176-879a-17a3dcadda29.png?v=e9gBJHP_ErqLX6Kw-cover",
+          "cpm": 1.5,
+          "website": ""
+        },
+        {
+          "org_id": 6843,
+          "name": "TradeSnap AI",
+          "image": "https://auth.gemstreak.com/storage/v1/object/public/account_image/cover/e8aa7bb7-70af-41aa-9716-da0dd8d01943.png",
+          "cpm": 1.5,
+          "website": ""
+        },
+        {
+          "org_id": 5307,
+          "name": "HitPrice",
+          "image": "https://auth.gemstreak.com/storage/v1/object/public/account_image/cover/541b4288-d87c-4a70-bbf5-5dfddb50cc23.jpg",
+          "cpm": 1.5,
+          "website": ""
+        },
+        {
+          "org_id": 111,
+          "name": "Splash Sports",
+          "image": "https://auth.gemstreak.com/storage/v1/object/public/account-covers/9be7f76b-0ac6-43e0-8cd1-de9656d57edc.png?v=TC29wsjgUumBWgHN-cover",
+          "cpm": 2.75,
+          "website": ""
+        }
+      ]
+    },
+    {
+      "name": "\ud83c\udf73 Food & Lifestyle",
+      "brands": [
+        {
+          "org_id": 4652,
+          "name": "Dashi",
+          "image": "https://auth.gemstreak.com/storage/v1/object/public/account-covers/115ab476-9ac2-46de-bec9-7d784215db9c.png?v=WYKJr3A3wSCbPqWb-cover",
+          "cpm": 0.75,
+          "website": ""
+        },
+        {
+          "org_id": 6438,
+          "name": "MyGredient",
+          "image": "https://auth.gemstreak.com/storage/v1/object/public/account-covers/71434b2a-6351-48a4-a8d1-c4ed1986b35d.png?v=rFec0JRaLRa2e4ha-cover",
+          "cpm": 1.5,
+          "website": ""
+        },
+        {
+          "org_id": 8572,
+          "name": "Nappy Boy Dranks",
+          "image": "https://auth.gemstreak.com/storage/v1/object/public/account_image/cover/5a6e7775-391f-4297-9005-672991cc5bab.jpg",
+          "cpm": 3.0,
+          "website": ""
+        },
+        {
+          "org_id": 8908,
+          "name": "NeatNook",
+          "image": "https://auth.gemstreak.com/storage/v1/object/public/account-covers/274f999e-7b24-4adf-ac03-ed6995270e89.png?v=VHxvD1B2Ux2pu0ym-cover",
+          "cpm": 1.5,
+          "website": ""
+        },
+        {
+          "org_id": 5798,
+          "name": "Greater Goods",
+          "image": "https://auth.gemstreak.com/storage/v1/object/public/account-covers/9e87b084-d9b6-4594-bc48-766e71148805.png?v=SudTXr1W6NJ9canM-cover",
+          "cpm": 3.0,
+          "website": ""
+        }
+      ]
+    },
+    {
+      "name": "\ud83d\udde3\ufe0f Language Learning",
+      "brands": [
+        {
+          "org_id": 93,
+          "name": "Lingotok",
+          "image": "https://auth.gemstreak.com/storage/v1/object/public/organizations/Partners/Lingotok/lingotok-headline-image.png",
+          "cpm": 0.75,
+          "website": ""
+        },
+        {
+          "org_id": 4859,
+          "name": "Orali",
+          "image": "",
+          "cpm": 2.5,
+          "website": ""
+        },
+        {
+          "org_id": 5260,
+          "name": "Polly Team",
+          "image": "https://auth.gemstreak.com/storage/v1/object/public/account-covers/077f0108-1f9f-4dbf-9436-58c945c8b85f.PNG?v=iS9cIUHruAY6CF9s-cover",
+          "cpm": 3.0,
+          "website": ""
+        },
+        {
+          "org_id": 6063,
+          "name": "Lingrow",
+          "image": "https://auth.gemstreak.com/storage/v1/object/public/account-covers/d6cfb423-de90-4fc1-b0d3-37a6cb287600.png?v=LX9kdfYLTyAllW-A-cover",
+          "cpm": 1.0,
+          "website": ""
+        },
+        {
+          "org_id": 3791,
+          "name": "Keymagine",
+          "image": "https://auth.gemstreak.com/storage/v1/object/public/account-covers/e8043f51-764e-4937-b9d3-463a321333e0.png?v=fWtsBMdWgopPpqWF-cover",
+          "cpm": 0.6,
+          "website": ""
+        }
+      ]
+    },
+    {
+      "name": "\ud83d\udc57 Fashion & Beauty",
+      "brands": [
+        {
+          "org_id": 6311,
+          "name": "Remode",
+          "image": "https://auth.gemstreak.com/storage/v1/object/public/account-covers/bc8a9424-42e6-4287-a637-a7d9367e807c.png?v=cQm1QaJ3RxADJWJ2-cover",
+          "cpm": 2.0,
+          "website": ""
+        },
+        {
+          "org_id": 6925,
+          "name": "Estyl. Like Magic",
+          "image": "https://auth.gemstreak.com/storage/v1/object/public/account-covers/de0abdff-0e07-4c66-8a6a-2727cfd37215.jpg?v=R049Zt8UAnKPvvap-cover",
+          "cpm": 2.0,
+          "website": ""
+        },
+        {
+          "org_id": 6346,
+          "name": "LABL",
+          "image": "https://auth.gemstreak.com/storage/v1/object/public/account_image/cover/52895142-6046-4dc1-90aa-ebddd5a0d179.jpg",
+          "cpm": 2.5,
+          "website": ""
+        },
+        {
+          "org_id": 5890,
+          "name": "Posa",
+          "image": "https://auth.gemstreak.com/storage/v1/object/public/account_image/cover/f6cf2611-ec98-411f-b3ad-ef0d8fca8b54.jpg",
+          "cpm": 2.0,
+          "website": ""
+        }
+      ]
+    },
+    {
+      "name": "\ud83d\udcbb Productivity & Tech",
+      "brands": [
+        {
+          "org_id": 4502,
+          "name": "Cat On Chair",
+          "image": "https://auth.gemstreak.com/storage/v1/object/public/account-covers/7692e56f-3e24-477b-99a3-9b238deafa82.jpg?v=9gb_mHiq0mxH8CW9-cover",
+          "cpm": 2.0,
+          "website": ""
+        },
+        {
+          "org_id": 4379,
+          "name": "Wakio",
+          "image": "https://auth.gemstreak.com/storage/v1/object/public/account-covers/95e47b6e-c1eb-400d-a266-84fcba9a961f.jpg?v=OdEfi98APAnXm00w-cover",
+          "cpm": 1.5,
+          "website": ""
+        },
+        {
+          "org_id": 8830,
+          "name": "wakn up",
+          "image": "https://auth.gemstreak.com/storage/v1/object/public/account-covers/d573f702-2ed9-4ee4-a1bb-3852ccef5317.png?v=4Ekze4JO5aTqRkJw-cover",
+          "cpm": 1.5,
+          "website": ""
+        },
+        {
+          "org_id": 8175,
+          "name": "PathRank",
+          "image": "https://auth.gemstreak.com/storage/v1/object/public/account-covers/f74980a7-b958-40f4-9394-3eddb8a11cc2.png?v=O9uAPu78ojzEbcyq-cover",
+          "cpm": 5.0,
+          "website": ""
+        },
+        {
+          "org_id": 5990,
+          "name": "Polsia",
+          "image": "https://auth.gemstreak.com/storage/v1/object/public/account_image/cover/cdec254c-dad3-4c8f-a368-781267f8b456.png",
+          "cpm": 2.0,
+          "website": ""
+        },
+        {
+          "org_id": 5285,
+          "name": "Rephraselab",
+          "image": "https://auth.gemstreak.com/storage/v1/object/public/account_image/cover/bf7ce989-839c-497b-86f1-532834c0e16d.png",
+          "cpm": 2.0,
+          "website": ""
+        },
+        {
+          "org_id": 5959,
+          "name": "WritelyHuman",
+          "image": "https://auth.gemstreak.com/storage/v1/object/public/account-covers/29c2b547-2c7f-4de3-9501-92737770fba4.png?v=n1d0gsruyekcajGS-cover",
+          "cpm": 1.5,
+          "website": ""
+        },
+        {
+          "org_id": 8587,
+          "name": "verve ai",
+          "image": "https://auth.gemstreak.com/storage/v1/object/public/account_image/cover/304bd015-d154-4603-9227-bbfe3ae68012.png",
+          "cpm": 2.0,
+          "website": ""
+        },
+        {
+          "org_id": 7000,
+          "name": "Smatic",
+          "image": "https://auth.gemstreak.com/storage/v1/object/public/account-covers/035b312b-cedc-4ceb-b5dd-be9c04910eba.jpeg?v=hgI5q4MqQTsXs8Wg-cover",
+          "cpm": 2.0,
+          "website": ""
+        },
+        {
+          "org_id": 7160,
+          "name": "CharmXP",
+          "image": "https://auth.gemstreak.com/storage/v1/object/public/account_image/cover/4fbdbd07-7794-4cca-9df4-340ab39a6cd5.jpg",
+          "cpm": 2.5,
+          "website": ""
+        },
+        {
+          "org_id": 6174,
+          "name": "RoadWarrior",
+          "image": "https://auth.gemstreak.com/storage/v1/object/public/account-covers/40cf014f-dafe-4847-957e-9277eb39408c.png?v=zkXDefXHlSr8j8fZ-cover",
+          "cpm": 3.0,
+          "website": ""
+        },
+        {
+          "org_id": 5170,
+          "name": "Nomie",
+          "image": "https://auth.gemstreak.com/storage/v1/object/public/account-covers/bc9ef69b-d942-4936-b05e-7b16111e5ebe.jpg?v=CvM-yHboDDSzrOxf-cover",
+          "cpm": 2.0,
+          "website": ""
+        },
+        {
+          "org_id": 5406,
+          "name": "Wayk",
+          "image": "https://auth.gemstreak.com/storage/v1/object/public/organizations/Partners/A_Manual%20Icon%20Fixes/productivity-wayk-feature.jpg",
+          "cpm": 1.5,
+          "website": ""
+        },
+        {
+          "org_id": 8283,
+          "name": "Stageless AI",
+          "image": "https://auth.gemstreak.com/storage/v1/object/public/account_image/cover/c38c89ff-2eed-413d-bdf7-29c166293d06.svg",
+          "cpm": 1.0,
+          "website": ""
+        },
+        {
+          "org_id": 6175,
+          "name": "Hero Stuff",
+          "image": "https://auth.gemstreak.com/storage/v1/object/public/account-covers/13de2d7b-8cb0-4872-ae70-6ba4d4060ac8.jpg?v=RTkGiNXMiB99u_fz-cover",
+          "cpm": 4.0,
+          "website": ""
+        },
+        {
+          "org_id": 3222,
+          "name": "Floot, Inc",
+          "image": "https://auth.gemstreak.com/storage/v1/object/public/account-covers/b4951c20-3366-40e6-849b-e0d2bc7cd156.jpg?v=U1zFjySc-AYe6ONs-cover",
+          "cpm": 3.0,
+          "website": ""
+        },
+        {
+          "org_id": 6818,
+          "name": "GlenDigitalInsights",
+          "image": "https://auth.gemstreak.com/storage/v1/object/public/account-covers/afbc9b01-216d-43ee-98f5-e6f1ae7ab618.jpeg?v=dgJJ89KVCWoLYKaE-cover",
+          "cpm": 2.0,
+          "website": ""
+        },
+        {
+          "org_id": 70,
+          "name": "Dreampress AI",
+          "image": "https://auth.gemstreak.com/storage/v1/object/public/account-covers/1ad8f8e2-32a0-4923-a816-71f24c655e57.png?v=dC36yg8vAWVNXyrm-cover",
+          "cpm": 1.25,
+          "website": ""
+        },
+        {
+          "org_id": 8674,
+          "name": "Zoinks",
+          "image": "https://auth.gemstreak.com/storage/v1/object/public/account_image/cover/a0ab8e93-7391-4413-901e-565c976207e4.png",
+          "cpm": 0.5,
+          "website": ""
+        },
+        {
+          "org_id": 4438,
+          "name": "Video Diary",
+          "image": "https://auth.gemstreak.com/storage/v1/object/public/account-covers/60c3d5d5-81a3-4e12-9657-eb331ba086c3.png?v=LeHyL_uqwB2p77pF-cover",
+          "cpm": 3.0,
+          "website": ""
+        },
+        {
+          "org_id": 5865,
+          "name": "Imprint",
+          "image": "https://auth.gemstreak.com/storage/v1/object/public/account-covers/ac1d4dc6-40ce-4cfa-900a-62e31730e20e.jpg?v=7Z7w-OwPoaTAzDXj-cover",
+          "cpm": 4.25,
+          "website": ""
+        },
+        {
+          "org_id": 6855,
+          "name": "ixannx",
+          "image": "https://auth.gemstreak.com/storage/v1/object/public/account-covers/75ffbd93-7ce9-40b4-9c26-ef979744055f.jpeg?v=NdGblrOcLOXn8gV1-cover",
+          "cpm": 2.0,
+          "website": ""
+        },
+        {
+          "org_id": 6346,
+          "name": "LABL",
+          "image": "https://auth.gemstreak.com/storage/v1/object/public/account_image/cover/52895142-6046-4dc1-90aa-ebddd5a0d179.jpg",
+          "cpm": 2.5,
+          "website": ""
+        },
+        {
+          "org_id": 6063,
+          "name": "Lingrow",
+          "image": "https://auth.gemstreak.com/storage/v1/object/public/account-covers/d6cfb423-de90-4fc1-b0d3-37a6cb287600.png?v=LX9kdfYLTyAllW-A-cover",
+          "cpm": 1.0,
+          "website": ""
+        },
+        {
+          "org_id": 6692,
+          "name": "PCOS Pal",
+          "image": "https://auth.gemstreak.com/storage/v1/object/public/account-covers/943cfe16-39f3-4847-b395-7ca6c53db1f5.png?v=0qxw2ET95vo2wz6R-cover",
+          "cpm": 1.33,
+          "website": ""
+        },
+        {
+          "org_id": 5752,
+          "name": "Gutrating.com",
+          "image": "https://auth.gemstreak.com/storage/v1/object/public/account-covers/7a33da6a-458f-4c4c-82f5-d0d31783760d.png?v=JhudL2YNFybCJtRC-cover",
+          "cpm": 1.0,
+          "website": ""
+        },
+        {
+          "org_id": 8170,
+          "name": "Gymgineer",
+          "image": "https://auth.gemstreak.com/storage/v1/object/public/account-covers/fab6a9da-92f4-4b58-83d2-df127d93a1ea.png?v=dWtAkwP6XNSY9jLb-cover",
+          "cpm": 3.0,
+          "website": ""
+        }
+      ]
+    },
+    {
+      "name": "\ud83d\udcda Education & Self-Improvement",
+      "brands": [
+        {
+          "org_id": 5865,
+          "name": "Imprint",
+          "image": "https://auth.gemstreak.com/storage/v1/object/public/account-covers/ac1d4dc6-40ce-4cfa-900a-62e31730e20e.jpg?v=7Z7w-OwPoaTAzDXj-cover",
+          "cpm": 4.25,
+          "website": ""
+        },
+        {
+          "org_id": 8462,
+          "name": "Pursu",
+          "image": "https://auth.gemstreak.com/storage/v1/object/public/account_image/cover/d686bb27-d6b2-402b-a278-5deb450776a4.png",
+          "cpm": 2.0,
+          "website": ""
+        },
+        {
+          "org_id": 6669,
+          "name": "Chessreps",
+          "image": "https://auth.gemstreak.com/storage/v1/object/public/account_image/cover/b4cf3b42-1d8e-4f6c-b94f-ac4dfde11aee.png",
+          "cpm": 2.0,
+          "website": ""
+        },
+        {
+          "org_id": 3968,
+          "name": "Faith Mode App",
+          "image": "https://auth.gemstreak.com/storage/v1/object/public/account-covers/d9f8a39a-6f5c-4977-abf4-c9d4967d598f.jpg?v=2jAJbV6Ib4qGrbMH-cover",
+          "cpm": 2.5,
+          "website": ""
+        },
+        {
+          "org_id": 7214,
+          "name": "Soul Wish",
+          "image": "https://auth.gemstreak.com/storage/v1/object/public/account-covers/bc8e1b9b-9461-42f6-aa6c-008d2b69010b.png?v=T7D7pomeaRghykMy-cover",
+          "cpm": 2.5,
+          "website": ""
+        },
+        {
+          "org_id": 4438,
+          "name": "Video Diary",
+          "image": "https://auth.gemstreak.com/storage/v1/object/public/account-covers/60c3d5d5-81a3-4e12-9657-eb331ba086c3.png?v=LeHyL_uqwB2p77pF-cover",
+          "cpm": 3.0,
+          "website": ""
+        },
+        {
+          "org_id": 5959,
+          "name": "WritelyHuman",
+          "image": "https://auth.gemstreak.com/storage/v1/object/public/account-covers/29c2b547-2c7f-4de3-9501-92737770fba4.png?v=n1d0gsruyekcajGS-cover",
+          "cpm": 1.5,
+          "website": ""
+        }
+      ]
+    },
+    {
+      "name": "\ud83c\udf89 Social & Entertainment",
+      "brands": [
+        {
+          "org_id": 181,
+          "name": "Triips",
+          "image": "https://auth.gemstreak.com/storage/v1/object/public/account-covers/b2990fa2-c598-4bd8-8193-aa87f21c07ed.png?v=GAGIwNCXyUdMxALE-cover",
+          "cpm": 0.25,
+          "website": ""
+        },
+        {
+          "org_id": 6316,
+          "name": "Sociway",
+          "image": "https://auth.gemstreak.com/storage/v1/object/public/account_image/cover/2025fab2-1440-43f2-a7c8-409ea8e0b285.png",
+          "cpm": 1.0,
+          "website": ""
+        },
+        {
+          "org_id": 601,
+          "name": "DoorList",
+          "image": "https://auth.gemstreak.com/storage/v1/object/public/account-covers/3d11966a-9f33-4e0e-84ec-cd8e7d04b4a5.png?v=j_84Tl6nyIVPENH5-cover",
+          "cpm": 2.0,
+          "website": ""
+        },
+        {
+          "org_id": 111,
+          "name": "Splash Sports",
+          "image": "https://auth.gemstreak.com/storage/v1/object/public/account-covers/9be7f76b-0ac6-43e0-8cd1-de9656d57edc.png?v=TC29wsjgUumBWgHN-cover",
+          "cpm": 2.75,
+          "website": ""
+        },
+        {
+          "org_id": 8189,
+          "name": "Soundmap",
+          "image": "https://auth.gemstreak.com/storage/v1/object/public/account_image/cover/fee85bc7-27a2-4cba-b788-85356d03bf63.png",
+          "cpm": 2.5,
+          "website": ""
+        },
+        {
+          "org_id": 8163,
+          "name": "Yapper Live",
+          "image": "",
+          "cpm": 2.0,
+          "website": ""
+        },
+        {
+          "org_id": 8312,
+          "name": "Ready to Date",
+          "image": "https://auth.gemstreak.com/storage/v1/object/public/account_image/cover/67add304-ee34-4805-b9a9-16ee6198a829.jpg",
+          "cpm": 2.0,
+          "website": ""
+        },
+        {
+          "org_id": 5934,
+          "name": "Lucky Egg",
+          "image": "https://auth.gemstreak.com/storage/v1/object/public/account_image/cover/cc9f00d0-e646-437d-91c4-13cacf2e8d4e.png",
+          "cpm": 2.5,
+          "website": ""
+        },
+        {
+          "org_id": 8328,
+          "name": "Friction",
+          "image": "https://auth.gemstreak.com/storage/v1/object/public/account-covers/0ed905d3-a9e5-4066-9425-571deadd3aa5.jpg?v=-hKgKtZefEUV0QwI-cover",
+          "cpm": 2.5,
+          "website": ""
+        },
+        {
+          "org_id": 5439,
+          "name": "Loveline",
+          "image": "https://auth.gemstreak.com/storage/v1/object/public/account-covers/40dc95d0-5625-45c5-bbb5-9251d0118994.png?v=K63RWS-36kSRlNxX-cover",
+          "cpm": 2.0,
+          "website": ""
+        },
+        {
+          "org_id": 6452,
+          "name": "REDMAN TV",
+          "image": "https://auth.gemstreak.com/storage/v1/object/public/account_image/cover/b839158e-55dd-4a51-b4bf-be8bdf116b2c.jpg",
+          "cpm": 2.0,
+          "website": ""
+        },
+        {
+          "org_id": 570,
+          "name": "Margins",
+          "image": "https://auth.gemstreak.com/storage/v1/object/public/organizations/Partners/A_Manual%20Icon%20Fixes/margins-feature.png",
+          "cpm": 1.25,
+          "website": ""
+        },
+        {
+          "org_id": 5406,
+          "name": "Wayk",
+          "image": "https://auth.gemstreak.com/storage/v1/object/public/organizations/Partners/A_Manual%20Icon%20Fixes/productivity-wayk-feature.jpg",
+          "cpm": 1.5,
+          "website": ""
+        },
+        {
+          "org_id": 6855,
+          "name": "ixannx",
+          "image": "https://auth.gemstreak.com/storage/v1/object/public/account-covers/75ffbd93-7ce9-40b4-9c26-ef979744055f.jpeg?v=NdGblrOcLOXn8gV1-cover",
+          "cpm": 2.0,
+          "website": ""
+        },
+        {
+          "org_id": 8166,
+          "name": "QuickPack",
+          "image": "https://auth.gemstreak.com/storage/v1/object/public/account-covers/b67148f3-3f5b-466c-a3a4-987e2092f742.webp?v=7eZfmNygBF_xBhVB-cover",
+          "cpm": 2.5,
+          "website": ""
+        },
+        {
+          "org_id": 5260,
+          "name": "Polly Team",
+          "image": "https://auth.gemstreak.com/storage/v1/object/public/account-covers/077f0108-1f9f-4dbf-9436-58c945c8b85f.PNG?v=iS9cIUHruAY6CF9s-cover",
+          "cpm": 3.0,
+          "website": ""
+        },
+        {
+          "org_id": 7188,
+          "name": "Minu Ai",
+          "image": "https://auth.gemstreak.com/storage/v1/object/public/account_image/cover/a174f7fa-5f47-44b4-8a2c-4b4c3c304d9b.jpg",
+          "cpm": 2.5,
+          "website": ""
+        },
+        {
+          "org_id": 7160,
+          "name": "CharmXP",
+          "image": "https://auth.gemstreak.com/storage/v1/object/public/account_image/cover/4fbdbd07-7794-4cca-9df4-340ab39a6cd5.jpg",
+          "cpm": 2.5,
+          "website": ""
+        },
+        {
+          "org_id": 8572,
+          "name": "Nappy Boy Dranks",
+          "image": "https://auth.gemstreak.com/storage/v1/object/public/account_image/cover/5a6e7775-391f-4297-9005-672991cc5bab.jpg",
+          "cpm": 3.0,
+          "website": ""
+        },
+        {
+          "org_id": 6438,
+          "name": "MyGredient",
+          "image": "https://auth.gemstreak.com/storage/v1/object/public/account-covers/71434b2a-6351-48a4-a8d1-c4ed1986b35d.png?v=rFec0JRaLRa2e4ha-cover",
+          "cpm": 1.5,
+          "website": ""
+        },
+        {
+          "org_id": 8674,
+          "name": "Zoinks",
+          "image": "https://auth.gemstreak.com/storage/v1/object/public/account_image/cover/a0ab8e93-7391-4413-901e-565c976207e4.png",
+          "cpm": 0.5,
+          "website": ""
+        }
+      ]
+    }
+  ],
+  "generated_at": "2026-05-18"
+}
