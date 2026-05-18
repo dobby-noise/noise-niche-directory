@@ -679,18 +679,6 @@
     Updated daily &bull; Powered by <strong>Noise</strong>
   </div>
 
-  <div id="toast" style="display:none;position:fixed;bottom:24px;left:50%;transform:translateX(-50%);background:#333;color:#fff;padding:12px 24px;border-radius:8px;font-size:0.9rem;z-index:999;font-family:Inter,sans-serif;">Open this brand in the Noise app 📱</div>
-  <script>
-    document.querySelectorAll('a.brand-card').forEach(function(card) {
-      card.addEventListener('click', function(e) {
-        e.preventDefault();
-        var href = this.getAttribute('href');
-        var toast = document.getElementById('toast');
-        toast.style.display = 'block';
-        setTimeout(function() { toast.style.display = 'none'; }, 3000);
-        window.location.href = href;
-      });
-    });
-  </script>
+
 </body>
 </html>
